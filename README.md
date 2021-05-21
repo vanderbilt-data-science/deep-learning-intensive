@@ -17,6 +17,9 @@ Open-source packages stand on the shoulders of giants.  The content for these wo
 **Day 3**  
   Pending
 
+**Day 4**
+  Pending
+
 ## Breakout Rooms
 During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
 
