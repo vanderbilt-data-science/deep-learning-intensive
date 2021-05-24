@@ -89,7 +89,8 @@ A number of examples will be left to the reader.  Please complete these assignme
 
 Transformers
  - [huggingface.co](huggingface.co)
- - 
+ - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+ - [Natural Language Processing with Transformers Book](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/)
 
 General Python for Data Science
 
