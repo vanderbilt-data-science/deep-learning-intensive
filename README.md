@@ -8,21 +8,55 @@ New overview description needed.
 
 ## Workshop Schedule
 **Day 1**  
-  Pending
-  
+Introduction to deep learning
+Introduction to Transformer models
+Intro to Transformer project lifecycle
+Introduction to pipelines
+
+
 **Day 2**  
-  Pending  
-  
+
+Demonstration of NLP pipelines
+
+Hands-on with NLP pipelines
+- QA
+- Classification
+- Sentiment
+- Named Entity resolution
+
+Demonstration of non-NLP pipelines
+- Chatbot
+- Image 
+- Wave
+
+
 **Day 3**  
-  Pending
+
+Practical Deep Learning
+- Imbalanced data
+- Loss function
+- Augmenting data
+
+Hands On Working Session
+
+Standard pipeline for inferencing
+
+Introduction to fine tuning models  
 
 **Day 4**  
-  Pending
+
+Fine tuning models
+- Training through hugginface
+- Training on-prem
+- Compute/Grant announcement
+
+Demos
+
 
 ## Breakout Rooms
 During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
 
-Link Coming Soon!
+https://docs.google.com/document/d/17aCJNR66ZYxqdS1pI4DUUz_RmjwY5iY4_8xH90VH7gk/edit?usp=sharing
 
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
@@ -36,6 +70,12 @@ Video recordings of these workshops can be found at the links below:
 A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next workshop.  These will help in developing intuition and understanding for the next workshop topics.
 
 ## Other Resources
+
+Transformers
+ - [huggingface.co](huggingface.co)
+ - 
+
+General Python for Data Science
 
 - [A Whirlwind Tour of Python, Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook, Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
