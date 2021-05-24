@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/python-for-deep-learning-workshop)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/deep-learning-intensive)
 # Deep Learning Intensive
 > Practical skills in Python for deep learning
 
@@ -7,67 +7,39 @@
 Deep learning frameworks greatly simplify the use of models. We cover the essential theory, skills, and technical detail to all users to take advantage of these frameworks. This workshop centers on transformer models and their application to natural language processing, image processing, and sound processing. 
 
 ## Workshop Schedule
-**Day 1**
-
-Introductions
-
-Introduction to deep learning
-
-Introduction to Transformer models
-
-Introduction to transformer processing lifecycle
-
-Introduction to huggingface.co
-
-Introduction to pipelines
-
-Breakout: Applications of pipelines
-
-Deeper dive into transformers
-
-Feature extraction vs Fine-tuning
-
-Breakout: When do you need fine-tuning?
-
+**Day 1**  
+Introductions  
+Introduction to deep learning  
+Introduction to Transformer models  
+Introduction to transformer processing lifecycle  
+Introduction to huggingface.co  
+Introduction to pipelines  
+Breakout: Applications of pipelines  
+Deeper dive into transformers  
+Feature extraction vs Fine-tuning  
+Breakout: When do you need fine-tuning?  
 
 **Day 2**  
-
-Demonstration of NLP pipelines
-
-Hands-on with NLP pipelines
-- QA
-- Classification
-- Sentiment
-- Named Entity resolution
-
-Demonstration of non-NLP pipelines
-- Chatbot
-- Image 
-- Wave
-
+Hands-on: NLP tasks with pipelines  
+Understanding the APIs for inference tasks  
+Using data for inference on Google Colab through Google Drive  
+**Homework:** Ensure access to your data through Google Drive
 
 **Day 3**  
-
-Practical Deep Learning
-- Imbalanced data
-- Loss function
-- Augmenting data
-
-Hands On Working Session
-
-Standard pipeline for inferencing
-
 Introduction to fine tuning models  
+Practical deep learning:  
+-Imbalanced data  
+-Loss function  
+-Augmenting data    
+Hands On Working Session  
 
 **Day 4**  
 
-Fine tuning models
-- Training through hugginface
-- Training on-prem
-- Compute/Grant announcement
-
-Demos
-
+Fine tuning models:  
+-Training through HuggingFace  
+-Training on-prem  
+-Compute/Grant announcement  
+Demos  
 
 ## Breakout Rooms
 During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
