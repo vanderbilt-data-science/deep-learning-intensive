@@ -4,13 +4,16 @@
 
 ## Overview
 
-New overview description needed.
+Deep learning frameworks greatly simplify the use of models. We cover the essential theory, skills, and technical detail to all users to take advantage of these frameworks. This workshop centers on transformer models and their application to natural language processing, image processing, and sound processing. 
 
 ## Workshop Schedule
 **Day 1**  
 Introduction to deep learning
+
 Introduction to Transformer models
+
 Intro to Transformer project lifecycle
+
 Introduction to pipelines
 
 
