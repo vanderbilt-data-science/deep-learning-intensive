@@ -49,7 +49,7 @@ https://docs.google.com/document/d/17aCJNR66ZYxqdS1pI4DUUz_RmjwY5iY4_8xH90VH7gk/
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 
-- Day 1: Not yet recorded.
+- Day 1: [Deep Learning (Transformers) - Day 1](https://www.youtube.com/watch?v=TFuWbSoXbXA)
 - Day 2: Not yet recorded.
 - Day 3: Not yet recorded.
 - Day 4: Not yet recorded.
