@@ -62,6 +62,8 @@ Practical deep learning:
 
 -Augmenting data
 
+-Specialized models
+
 Demos
 
 Research Meetup
