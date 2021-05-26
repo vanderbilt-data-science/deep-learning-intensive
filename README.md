@@ -37,7 +37,8 @@ Fine tuning models:
 Practical deep learning:  
 -Imbalanced data  
 -Loss function  
--Augmenting data    Demos  
+-Augmenting data
+
 Demos
 Research Meetup
 
