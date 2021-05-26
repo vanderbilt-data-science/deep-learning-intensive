@@ -8,38 +8,62 @@ Deep learning frameworks greatly simplify the use of models. We cover the essent
 
 ## Workshop Schedule
 **Day 1**  
-Introductions  
+Introductions
+
 Introduction to deep learning  
+
 Introduction to Transformer models  
 Introduction to transformer processing lifecycle  
+
 Introduction to huggingface.co  
 Introduction to pipelines  
+
 Breakout: Applications of pipelines  
+
 Deeper dive into transformers  
+
 Feature extraction vs Fine-tuning  
+
 Breakout: When do you need fine-tuning?  
 
 **Day 2**  
 Hands-on: NLP tasks with pipelines  
+
 Understanding the APIs for inference tasks  
+
 Using data for inference on Google Colab through Google Drive  
+
 **Homework:** Ensure access to your data through Google Drive
 
 **Day 3**  
+
 Introduction to fine tuning models  
+
 Hands On Working Session  
+
 Fine tuning models:  
+
 -Training through HuggingFace  
+
 -Training on-prem  
+
 -Compute/Grant announcement  
 
+**Homework:** Try an initial inferencing or training/inferencing on your data
+
+
 **Day 4**  
+
 Practical deep learning:  
+
 -Imbalanced data  
+
 -Loss function  
+
 -Augmenting data
 
 Demos
+
 Research Meetup
 
 ## Breakout Rooms
