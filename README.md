@@ -27,19 +27,19 @@ Using data for inference on Google Colab through Google Drive
 
 **Day 3**  
 Introduction to fine tuning models  
-Practical deep learning:  
--Imbalanced data  
--Loss function  
--Augmenting data    
 Hands On Working Session  
-
-**Day 4**  
-
 Fine tuning models:  
 -Training through HuggingFace  
 -Training on-prem  
 -Compute/Grant announcement  
-Demos  
+
+**Day 4**  
+Practical deep learning:  
+-Imbalanced data  
+-Loss function  
+-Augmenting data    Demos  
+Demos
+Research Meetup
 
 ## Breakout Rooms
 During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the following Google doc: 
