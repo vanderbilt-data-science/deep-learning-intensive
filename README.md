@@ -78,7 +78,7 @@ Video recordings of these workshops can be found at the links below:
 
 - Day 1: [Deep Learning (Transformers) - Day 1](https://www.youtube.com/watch?v=TFuWbSoXbXA)
 - Day 2: [Deep Learning (Transformers) - Day 2](https://www.youtube.com/watch?v=0n9eEbEpBmw)
-- Day 3: Not yet recorded.
+- Day 3: [Deep Learning (Transformers) - Day 3](https://www.youtube.com/watch?v=_tZNvsNHQFI)
 - Day 4: Not yet recorded.
 
 ## Asynchronous (Homework) Assignments
