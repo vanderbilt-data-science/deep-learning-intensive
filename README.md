@@ -23,7 +23,7 @@ The workshops are 9am-1pm CT daily January 4th to January 9th, 2022. The first 3
 * Should I fine-tune my model? What is fine-tuning? [Let's see with standard datasets!](https://huggingface.co/docs/transformers/training)
 * How can I collaborate and disseminate my work?
 
-**Homework:** Choose a Huggingface dataset that seems interesting. Fine-tune a model using the provided code.
+**Homework:** Explore pipelines. Define what you'd like to do with Transformers for your application.
 
 ### **Day 2: Hands-on with Datasets and Fine-tuning**  
 
@@ -33,7 +33,7 @@ The workshops are 9am-1pm CT daily January 4th to January 9th, 2022. The first 3
 * How can I save and share my dataset?
 * What else do I need to do to prepare my data for fine-tuning?
 
-**Homework:** Format your data as a Dataset and push it to HuggingFace Hub (if your data security contracts allow). Make sure to add a model card and info. Train your model using the provided code.
+**Homework:** Format your data as a Dataset and push it to HuggingFace Hub (if your data security contracts allow). Make sure to add a model card and info.  
 
 ### **Day 3: Hands-on Fine-tuning**  
 * What are the API components of fine-tuning a model?
@@ -51,7 +51,7 @@ The workshops are 9am-1pm CT daily January 4th to January 9th, 2022. The first 3
 * Research Rooms
 
 ## Breakout Rooms
-During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in the provided Google Doc.
+During these workshops, we'll have a number of breakout rooms where you'll work with others for discussion or develop code to solve an assignment.  Please screenshot or paste your results in [the provided Google Doc](https://docs.google.com/document/d/1ccmVzUQ94J_DPIbxGfTT5VmL3PCQ5OPzlGmikr6QmmA/edit?usp=sharing).
 
 ## Asynchronous (Homework) Assignments
 A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next workshop.  These will help in developing intuition and understanding for the next workshop topics.
